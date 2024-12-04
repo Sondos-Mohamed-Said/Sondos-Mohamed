@@ -33,6 +33,4 @@ My Personal Profile
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sondos&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
 
