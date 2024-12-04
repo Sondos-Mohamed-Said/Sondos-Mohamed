@@ -23,15 +23,15 @@ My Personal Profile
 
 <a href="https://www.linkedin.com/in/sondos-mohamed-said/" target="_blank"><img src="https://img.shields.io/badge/-Sondos%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Microsoft-Excel)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
-
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sondos&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
